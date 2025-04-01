@@ -4,11 +4,11 @@
 <div align="center">
   <div align="center">
   <a href="https://github.com/PedroDNRusso">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroDNRusso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroDuarte2007&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </div>
 </br>
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDNRusso&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDuarte2007&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
 </br>
@@ -29,7 +29,7 @@
 <br>
    <div align="center">
         <img alt="Visitantes" 
-            src="https://widgetbite.com/stats/<PedroDNRusso>"/>  
+            src="https://widgetbite.com/stats/<PedroDuarte2007>"/>  
     </div>
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/PedroDNRusso/count.svg" /></p>
