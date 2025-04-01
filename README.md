@@ -32,5 +32,5 @@
             src="https://widgetbite.com/stats/<PedroDuarte2007>"/>  
     </div>
 </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/PedroDNRusso/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/PedroDuarte2007/count.svg" /></p>
 <br>
